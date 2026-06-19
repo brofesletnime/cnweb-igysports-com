@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brofesletnime.github.io/cnweb-igysports-com/sitemap.xml
